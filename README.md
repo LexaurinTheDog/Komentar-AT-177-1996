@@ -22,10 +22,11 @@ Začněte v [INDEX.md](INDEX.md), který obsahuje úplný obsah, mapu pojmů, ry
 - Pokrývá **všech 23 paragrafů** advokátního tarifu (§ 1 až § 17 včetně písmenných § 9a, 10a, 10b, 12b, 14a, 14b)
 - Přes **190 000 znaků** výkladového textu s desítkami početních příkladů výpočtu odměny
 - **U každého komentovaného paragrafu je vloženo přesné aktuální znění** vyhlášky (citační blok `> **§ N**`) přímo nad jeho výkladem
+- **U každého citovaného ustanovení jiných předpisů je u prvního výskytu vloženo jeho doslovné znění** (bloky `> 📎 Doslovné znění …`) — celkem 67 bloků z OSŘ, trestního řádu, SŘS, správního řádu, zákona o advokacii, občanského zákoníku, zákoníku práce, z.ř.s., ZTOPO, Listiny aj.
 
 ## Metoda
 
-Komentář byl sestaven AI asistentem (Claude) **výhradně z lokálních materiálů** — text vyhlášky z e-Sbírky (konsolidované znění k 15. 1. 2026) a lokálně dostupné nálezy Ústavního soudu k advokátnímu tarifu. **Nevyužívá živé právní databáze** (CODEXIS, ASPI, Beck-online). Obecná judikatura NSS/ÚS se cituje obecným odkazem na ustálenou rozhodovací praxi; **výjimkou jsou konkrétní nálezy ÚS dostupné v lokálních materiálech**, které se uvádějí jmenovitě (zejména série k § 9 odst. 5 a nález Pl. ÚS 32/25 k § 9 odst. 7 — viz [00-uvod.md](00-uvod.md)).
+Komentář byl sestaven AI asistentem (Claude) **výhradně z lokálních materiálů** — text vyhlášky z e-Sbírky (konsolidované znění k 15. 1. 2026), lokálně dostupné nálezy Ústavního soudu k advokátnímu tarifu a konsolidovaná znění citovaných předpisů z e-Sbírky (pro vkládaná doslovná znění odkazovaných ustanovení). **Nevyužívá živé právní databáze** (CODEXIS, ASPI, Beck-online). Obecná judikatura NSS/ÚS se cituje obecným odkazem na ustálenou rozhodovací praxi; **výjimkou jsou konkrétní nálezy ÚS dostupné v lokálních materiálech**, které se uvádějí jmenovitě (zejména série k § 9 odst. 5 a nález Pl. ÚS 32/25 k § 9 odst. 7 — viz [00-uvod.md](00-uvod.md)).
 
 ## Upozornění
 

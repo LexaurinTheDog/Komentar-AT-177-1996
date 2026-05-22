@@ -96,6 +96,10 @@ Typicky se jedná o výslech obviněného, výslech svědka za přítomnosti obh
 
 Specifický úkon přípravného řízení trestního (§ 166 tr. ř.): prostudování celého vyšetřovacího spisu. I zde platí princip každých započatých dvou hodin. Délka prostudování spisu se prokazuje záznamem policejního orgánu nebo jiným dokladem; advokát by měl být schopen ji doložit.
 
+> 📎 **Doslovné znění — § 166 odst. 1 zákona č. 141/1961 Sb., trestní řád (Skončení vyšetřování):**
+>
+> *(1) Uzná-li policejní orgán vyšetřování za skončené a jeho výsledky za postačující k podání obžaloby, umožní obviněnému, jeho obhájci a poškozenému, který podal návrh podle § 43 odst. 3, pokud jsou pobyt nebo sídlo tohoto poškozeného známé, v přiměřené době prostudovat spisy a učinit návrhy na doplnění vyšetřování. Na tuto možnost upozorní obviněného, jeho obhájce a poškozeného nejméně tři dny předem. Je-li počet poškozených velmi vysoký, platí obdobně § 44 odst. 2. Uvedenou lhůtu lze se souhlasem obviněného, obhájce a poškozeného zkrátit. Nepovažuje-li policejní orgán navrhované doplnění za nutné, odmítne je. O těchto úkonech učiní policejní orgán záznam ve spise a o odmítnutí návrhů na doplnění vyšetřování vyrozumí obviněného, jeho obhájce nebo poškozeného. Obviněný, který využil právo uvedené v § 2 odst. 14, se zároveň vyzve, aby se vyjádřil, zda požaduje přeložení některých písemností podle § 28 odst. 4.*
+
 *Písm. g) — účast při jednání před soudem nebo jiným orgánem (á 2 hodiny)*
 
 Nejčastěji uplatňovaný úkon: každé ústní jednání před soudem (civilní, správní, trestní), před správním orgánem, disciplinárním senátem atd. Opět platí princip každých započatých dvou hodin. Pokud jednání trvalo například čtyři hodiny a deset minut, advokátovi náleží tři plné úkony. Platí to i pro jednání konaná prostřednictvím videokonference, pokud se advokát jednání aktivně účastnil.
@@ -114,6 +118,14 @@ Přímé jednání (osobní, telefonické, videokonferencí) s protistranou nebo
 
 Pokud je návrh na předběžné opatření podán ještě před zahájením hlavního řízení (§ 74 o. s. ř.), jde o plný úkon — jeho příprava je totiž samostatnou a zpravidla naléhavou aktivitou advokáta. Totéž platí pro odvolání proti rozhodnutí o předběžném opatření a vyjádření k němu. Naopak návrh na předběžné opatření podaný po zahájení řízení je jen úkonem polovičním (odst. 2 písm. a), protože je zpravidla součástí probíhající věci.
 
+> 📎 **Doslovné znění — § 74 zákona č. 99/1963 Sb., občanský soudní řád:**
+>
+> *(1) Před zahájením řízení může předseda senátu nařídit předběžné opatření, je-li třeba, aby zatímně byly upraveny poměry účastníků, nebo je-li obava, že by výkon soudního rozhodnutí byl ohrožen.*
+>
+> *(2) Účastníky řízení jsou navrhovatel a ti, kteří by jimi byli, kdyby šlo o věc samu.*
+>
+> *(3) Příslušným k nařízení předběžného opatření je soud, který je příslušný k řízení o věci, nestanoví-li zákon jinak.*
+
 *Písm. k) — odvolání, dovolání, návrh na obnovu řízení, žaloba pro zmatečnost, stížnost pro porušení zákona*
 
 Opravné prostředky ve věci samé jsou všechny plnými úkony. Výčet je taxativní: odvolání (§ 201 a násl. o. s. ř., § 247 a násl. tr. ř.), dovolání (§ 236 a násl. o. s. ř., § 265a a násl. tr. ř.), návrh na obnovu řízení, žaloba pro zmatečnost (§ 229 a násl. o. s. ř.), jakož i stížnost proti rozhodnutí o návrhu na obnovu řízení a vyjádření k výše uvedeným. Vyjádření k opravnému prostředku protistrany je tedy rovněž plným úkonem.
@@ -121,6 +133,16 @@ Opravné prostředky ve věci samé jsou všechny plnými úkony. Výčet je tax
 *Písm. l) — podnět ke stížnosti pro porušení zákona a vyjádření k ní*
 
 Stížnost pro porušení zákona podává ministr spravedlnosti (§ 266 a násl. tr. ř.); advokát může podat podnět. Tato činnost je plným úkonem, stejně jako případné vyjádření ke stížnosti podané ministrem. Jde o specifický úkon trestního práva procesního.
+
+> 📎 **Doslovné znění — § 266 odst. 1 zákona č. 141/1961 Sb., trestní řád (Stížnost pro porušení zákona):**
+>
+> *(1) Proti pravomocnému rozhodnutí soudu nebo státního zástupce, jímž byl porušen zákon nebo které bylo učiněno na podkladě vadného postupu řízení, může ministr spravedlnosti podat u Nejvyššího soudu stížnost pro porušení zákona. Nestanoví-li zákon jinak, není proti rozhodnutí Nejvyššího soudu stížnost pro porušení zákona přípustná.*
+>
+> *(2) Proti výroku o trestu lze stížnost pro porušení zákona podat jen tehdy, jestliže trest je ve zřejmém nepoměru k povaze a závažnosti trestného činu nebo k poměrům pachatele nebo jestliže uložený druh trestu je v zřejmém rozporu s účelem trestu.*
+>
+> *(3) Týká-li se rozhodnutí uvedené v odstavci 1 více osob, lze stížnost pro porušení zákona podat také jen proti té části rozhodnutí, která se týká některé z těchto osob.*
+>
+> *(4) Stížnost pro porušení zákona v neprospěch obviněného proti pravomocnému rozhodnutí soudu nelze podat jen z toho důvodu, že soud postupoval v souladu s § 259 odst. 4, § 264 odst. 2, § 273 nebo § 289 písm. b).*
 
 *Písm. m) — sepsání listiny o právním jednání*
 
@@ -130,9 +152,25 @@ Zahrnuje sepisování smluv, jednostranných právních jednání, plných mocí
 
 Zahájení trestního stíhání usnesením o sdělení obvinění (§ 160 tr. ř.) lze napadnout stížností. Protože jde o zásadní moment v trestním řízení, tarif tento úkon zařadil mezi plné. Stížnost musí být obsahově odůvodněná, nestačí pouhé podání formuláře.
 
+> 📎 **Doslovné znění — § 160 odst. 1 a 7 zákona č. 141/1961 Sb., trestní řád (Zahájení trestního stíhání):**
+>
+> *(1) Nasvědčují-li prověřováním podle § 158 zjištěné a odůvodněné skutečnosti tomu, že byl spáchán trestný čin, a je-li dostatečně odůvodněn závěr, že jej spáchala určitá osoba, rozhodne policejní orgán neprodleně o zahájení trestního stíhání této osoby jako obviněného, pokud není důvod k postupu podle § 159a odst. 2 a 3, § 159b odst. 1 a 3 až 5 nebo § 159c odst. 1. Výrok usnesení o zahájení trestního stíhání musí obsahovat popis skutku, ze kterého je tato osoba obviněna, aby nemohl být zaměněn s jiným, zákonné označení trestného činu, který je v tomto skutku spatřován; obviněný musí být v usnesení o zahájení trestního stíhání označen stejnými údaji, jaké musí být uvedeny o osobě obžalovaného v rozsudku (§ 120 odst. 2). V odůvodnění usnesení je třeba přesně označit skutečnosti, které odůvodňují závěr o důvodnosti trestního stíhání.*
+>
+> *[…]*
+>
+> *(7) Proti usnesení o zahájení trestního stíhání může obviněný podat stížnost.*
+
 *Písm. o) — stížnost proti rozhodnutí o vazbě*
 
 Rozhodnutí o vzetí do vazby, prodloužení vazby nebo zamítnutí žádosti o propuštění z vazby (§ 74 a násl. tr. ř.) lze napadnout stížností. Jde zpravidla o časově naléhavý a náročný úkon obhájce, proto je zařazen mezi úkony plné.
+
+> 📎 **Doslovné znění — § 74 zákona č. 141/1961 Sb., trestní řád (Stížnost proti rozhodnutí o vazbě):**
+>
+> *(1) Proti rozhodnutí o vazbě (§ 68, 69, 71, 71a, 72, § 72a odst. 3, § 73 a 73a) je přípustná stížnost. Na rozhodování o stížnosti proti rozhodnutí o vazbě se obdobně užijí ustanovení o vazebním zasedání (§ 73d až 73g).*
+>
+> *(2) Odkladný účinek má pouze stížnost stran proti rozhodnutí o připadnutí peněžité záruky státu a stížnost státního zástupce proti rozhodnutí o propuštění obviněného z vazby, nejde-li o propuštění z vazby po vyhlášení zprošťujícího rozsudku. Byl-li však státní zástupce přítomen při vyhlášení rozhodnutí, má jeho stížnost odkladný účinek jen tehdy, byla-li podána ihned po vyhlášení rozhodnutí.*
+>
+> *(3) Rozhodne-li soud na základě stížnosti o zrušení rozhodnutí o vzetí obviněného do vazby nebo o dalším trvání vazby [§ 149 odst. 1 písm. b)], může věc vrátit k novému projednání a rozhodnutí pouze z důvodu závažných vad rozhodnutí. V takovém případě musí být obviněný neprodleně propuštěn z vazby.*
 
 ---
 
@@ -143,6 +181,14 @@ Odstavec 2 vyjmenovává úkony, za které náleží odměna ve výši *jedné p
 *Písm. a) — návrh na předběžné opatření po zahájení řízení; návrh na zajištění důkazu nebo dědictví*
 
 Na rozdíl od písm. j) odst. 1 je zde návrh na PO podán v průběhu probíhajícího řízení, kde již existuje procesní rámec a advokát má věc plně převzatou. Návrh na zajištění důkazu (§ 78 o. s. ř.) a zajištění dědictví jsou specifické procesní nástroje s relativně omezeným rozsahem.
+
+> 📎 **Doslovné znění — § 78 zákona č. 99/1963 Sb., občanský soudní řád:**
+>
+> *(1) Před zahájením řízení o věci samé lze na návrh zajistit důkaz, je-li obava, že později jej nebude možno provést vůbec nebo jen s velkými obtížemi.*
+>
+> *(2) K zajištění důkazu je příslušný soud, který by byl příslušný k řízení o věci, nebo soud, v jehož obvodu je ohrožený důkazní prostředek.*
+>
+> *(3) Zajištění důkazu provede předseda senátu způsobem předepsaným pro důkaz, o který jde. Není-li tu nebezpečí z prodlení, mají účastníci ve věci samé právo být přítomni u zajištění důkazu.*
 
 *Písm. b) — návrh na opravu odůvodnění, odstranění následků zmeškání lhůty, změna rozhodnutí o plnění v budoucích dávkách nebo ve splátkách*
 
@@ -160,6 +206,16 @@ Dopadá na trestní věci, kde se veřejné zasedání koná pro rozhodnutí pro
 
 Pro řízení o výkonu rozhodnutí (soudní výkon rozhodnutí dle části šesté o. s. ř. i exekuci dle exekučního řádu) jsou první porada s klientem a převzetí, sepsání návrhu, vyjádření, zastupování při jednání i odvolání proti rozhodnutí honorovány jako poloviční úkony — s výjimkou řízení o návrhu na zastavení nebo částečné zastavení výkonu podle § 268 odst. 1 písm. g) nebo h) o. s. ř. (tato výjimka reflektuje vyšší náročnost sporných řízení o zastavení exekuce z důvodu plnění dluhu nebo jiných okolností).
 
+> 📎 **Doslovné znění — § 268 odst. 1 písm. g) a h) zákona č. 99/1963 Sb., občanský soudní řád:**
+>
+> *(1) Výkon rozhodnutí bude zastaven, jestliže*
+>
+> *[…]*
+>
+> *g) po vydání rozhodnutí zaniklo právo jím přiznané, ledaže byl tento výkon rozhodnutí již proveden; bylo-li právo přiznáno rozsudkem pro zmeškání, bude výkon rozhodnutí zastaven i tehdy, jestliže právo zaniklo před vydáním tohoto rozsudku;*
+>
+> *h) výkon rozhodnutí je nepřípustný, protože je tu jiný důvod, pro který rozhodnutí nelze vykonat.*
+
 *Písm. f) — účast při jednání, při němž došlo pouze k vyhlášení rozhodnutí*
 
 Pokud advokát přijede k jednání, které se omezí pouze na vyhlášení rozsudku bez jakéhokoli dokazování nebo argumentace, je odměna poloviční — advokát se fakticky nepřipravoval na aktivní procesní roli.
@@ -167,6 +223,22 @@ Pokud advokát přijede k jednání, které se omezí pouze na vyhlášení rozs
 *Písm. g) — účast při přípravném jednání*
 
 Přípravné jednání (§ 114c o. s. ř.) slouží k organizaci dalšího průběhu řízení; jeho náročnost je nižší než u hlavního líčení nebo jednání ve věci samé.
+
+> 📎 **Doslovné znění — § 114c zákona č. 99/1963 Sb., občanský soudní řád:**
+>
+> *(1) Není-li možné o věci samé rozhodnout bez nařízení jednání, nebylo-li nebo nemůže-li být postupem podle § 114a odst. 2 jednání připraveno tak, aby bylo možné věc rozhodnout při jediném jednání, a nepostupoval-li podle § 114b, předseda senátu, s výjimkou sporů a jiných právních věcí, v nichž se takový postup jeví s ohledem na okolnosti případu neúčelným, nařídí a provede přípravné jednání.*
+>
+> *(2) K přípravnému jednání předvolá předseda senátu účastníky a jejich zástupce, popřípadě též další osoby, jejichž přítomnosti je třeba. Předvolání k přípravnému jednání musí být doručeno do vlastních rukou. Náhradní doručení je vyloučeno; to neplatí, doručuje-li se prostřednictvím veřejné datové sítě do datové schránky.*
+>
+> *(3) Při přípravném jednání předseda senátu zejména a) v součinnosti s účastníky objasní, zda jsou splněny podmínky řízení, a případně přijme opatření k odstranění zjištěného nedostatku podmínek řízení, b) vyzve účastníky, aby do protokolu doplnili svá potřebná tvrzení o skutečnostech rozhodných pro věc a návrhy na provedení důkazů k jejich prokázání a aby splnili své další procesní povinnosti, a poskytne účastníkům potřebná poučení; § 118a zde platí obdobně, c) pokusí se o smírné vyřešení věci (§ 99), d) může účastníkům řízení nařídit první setkání s mediátorem podle § 100 odst. 2, je-li to účelné a vhodné, e) uloží účastníkům řízení další procesní povinnosti potřebné k dosažení účelu řízení.*
+>
+> *(4) Procesní povinnosti podle odstavce 3 jsou účastníci povinni splnit do skončení přípravného jednání. Z důležitých důvodů soud účastníkům poskytne na žádost některého z nich lhůtu k doplnění tvrzení o skutečnostech rozhodujících pro věc, k podání návrhů na provedení důkazů nebo ke splnění dalších procesních povinností; tato lhůta nesmí být delší než 30 dnů.*
+>
+> *(5) Před skončením přípravného jednání předseda senátu poučí přítomné účastníky o tom, že ke skutečnostem uvedeným a k důkazům označeným po skončení přípravného jednání, popřípadě po uplynutí lhůty podle odstavce 4 věty druhé, může být přihlédnuto jen za podmínek uvedených v § 118b odst. 1.*
+>
+> *(6) Nedostaví-li se žalovaný k přípravnému jednání, ačkoliv byl řádně a včas předvolán nejméně 20 dnů předem a řádně mu byla doručena žaloba, aniž by se včas a z důležitého důvodu omluvil, má se, s výjimkou věcí, v nichž nelze uzavřít a schválit smír (§ 99 odst. 1 a 2), nebo je-li žalovaným ke dni zahájení řízení nebo ke dni vstupu do řízení nezletilý, který nenabyl plné svéprávnosti, za to, že uznává nárok, který je proti němu uplatňován žalobou; o tomto následku (§ 153a odst. 3) musí být poučen v předvolání k přípravnému jednání. To neplatí, jsou-li splněny předpoklady pro zastavení řízení nebo odmítnutí žaloby.*
+>
+> *(7) Nedostaví-li se k přípravnému jednání žalobce nebo jiný navrhovatel, ačkoliv byl řádně a včas předvolán nejméně 20 dnů předem, aniž by se včas a z důležitého důvodu omluvil, soud řízení zastaví; o tomto následku musí být poučen v předvolání k přípravnému jednání.*
 
 *Písm. h) — jednoduchá výzva k plnění*
 
@@ -266,8 +338,35 @@ V trestní věci, kde je obviněný stíhán pro více trestných činů spácha
 
 Zákon č. 85/1996 Sb., o advokacii, ve znění pozdějších předpisů, zná dva zvláštní typy bezplatné nebo zlevněné právní pomoci, při nichž advokát poskytuje právní porady nikoli na základě vlastní smlouvy s klientem, ale jako tzv. **určený advokát** pověřený Českou advokátní komorou:
 
-- **§ 18a zákona o advokacii** — právní pomoc fyzickým osobám, které nemohou dosáhnout poskytnutí právních služeb jiným způsobem (typicky pro osoby v tíživé sociální a majetkové situaci, na bezplatných poradnách ČAK);
-- **§ 18b zákona o advokacii** — právní pomoc osobám bez státní příslušnosti nebo osobám, jimž byl udělen azyl, nebo jiným zákonem vymezeným skupinám (uprchlíci, žadatelé o mezinárodní ochranu).
+- **§ 18a zákona o advokacii** — právní porada poskytnutá určeným advokátem fyzické osobě, jejíž průměrný měsíční příjem nepřesahuje trojnásobek životního minima (v minimální délce 30 minut, nejvýše 120 minut za kalendářní rok);
+
+> 📎 **Doslovné znění — § 18a zákona č. 85/1996 Sb., o advokacii:**
+>
+> *(1) Žadatel, jehož průměrný měsíční příjem za období 6 kalendářních měsíců předcházejících podání žádosti nepřesahuje trojnásobek životního minima jednotlivce nebo osob s ním společně posuzovaných podle zákona upravujícího životní a existenční minimum, a který není ve věci, v níž žádá poskytnutí právní porady, zastoupen jiným advokátem nebo osobou podle § 2 odst. 2 písm. a), má právo na to, aby mu Komora určila advokáta k poskytnutí právní porady. Jsou-li pro to důvody zvláštního zřetele hodné, lze splnění podmínek kladených na průměrný měsíční příjem prominout.*
+>
+> *(2) Právní porada se poskytne jednomu žadateli v minimální délce 30 minut, nejvýše do vyčerpání 120 minut délky právní porady za každý kalendářní rok; do celkového ročního časového limitu se započítává každých započatých 30 minut právní porady.*
+>
+> *(3) Žádost o určení advokáta k poskytnutí právní porady lze podat pouze na formuláři. Žádost kromě obecných náležitostí stanovených správním řádem obsahuje*
+>
+> *a) prohlášení žadatele, že jeho poměry odpovídají podmínkám pro přiznání nároku na poskytnutí právní porady podle odstavce 1, a*
+>
+> *b) prohlášení žadatele, že jej ve věci, v níž je právní porada žádána, nezastupuje jiný advokát nebo osoba podle § 2 odst. 2 písm. a).*
+>
+> *(4) Podrobnosti náležitostí žádosti včetně vzoru jejího formuláře stanoví Ministerstvo spravedlnosti vyhláškou.*
+>
+> *(5) Žadatel je povinen spolu s podáním žádosti uhradit Komoře poplatek za vyřízení žádosti ve výši 100 Kč. Poplatek je příjmem Komory. Poplatek nehradí: a) cizinci umístění v zařízení pro zajištění cizinců podle zákona upravujícího pobyt cizinců na území České republiky nebo přijímacím středisku podle zákona o azylu, b) držitelé průkazu ZTP nebo ZTP/P, c) osoby pobírající dávku státní sociální pomoci, jejíž součástí je složka na živobytí, d) osoby mladší 15 let, e) osoby, které jsou poživateli příspěvku na péči ve stupni III (těžká závislost) a IV (úplná závislost) podle zákona o sociálních službách, a f) osoby pečující o osoby, které mají přiznaný příspěvek na péči ve stupni III (těžká závislost) a IV (úplná závislost) podle zákona o sociálních službách.*
+>
+> *(6) Komora určí advokáta k poskytnutí právní porady žadateli, který osvědčil splnění zákonných podmínek a uhradil poplatek podle odstavce 5, bez zbytečného odkladu. Rozhodnutí o tom se nevyhotovuje v písemné formě.*
+>
+> *(7) Nevyhoví-li Komora žádosti, vydá o tom rozhodnutí.*
+
+- **§ 18b zákona o advokacii** — jednorázová právní porada poskytnutá určeným advokátem neurčenému počtu osob umístěných v zařízení pro zajištění cizinců nebo v přijímacím středisku podle zákona o azylu, a to na podnět provozovatele takového zařízení.
+
+> 📎 **Doslovné znění — § 18b zákona č. 85/1996 Sb., o advokacii:**
+>
+> *(1) Na základě podnětu provozovatele zařízení pro zajištění cizinců podle zákona upravujícího pobyt cizinců na území České republiky nebo přijímacího střediska podle zákona o azylu určí Komora advokáta k poskytnutí jednorázové právní porady neurčenému počtu osob umístěných v takovém zařízení; § 18a odst. 3 písm. b) a § 18a odst. 6 se použijí obdobně.*
+>
+> *(2) Podnět podle odstavce 1 lze podat pouze na formuláři, jehož vzor stanoví Ministerstvo spravedlnosti vyhláškou.*
 
 V obou případech advokát poskytuje právní porady jako veřejná služba; odměnu mu hradí Česká advokátní komora ze svých prostředků (nikoli klient).
 

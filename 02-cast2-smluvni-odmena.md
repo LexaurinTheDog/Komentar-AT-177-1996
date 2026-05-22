@@ -44,7 +44,11 @@ Odstavec 2 stanoví, že ujednání o smluvní odměně může být:
 
 - **sjednáno samostatně** — jako oddělená dohoda o odměně, která doplňuje základní smluvní vztah.
 
-Zákon o advokacii (zákon č. 85/1996 Sb.) v § 26 odst. 1 ukládá advokátovi povinnost uzavřít s klientem smlouvu o poskytování právních služeb písemně, pokud o to klient požádá. Pro ujednání o odměně samotný advokátní tarif písemnou formu výslovně nestanoví, avšak s ohledem na právní jistotu obou stran a na důkazní pozici v případě sporu o výši odměny je písemná forma odměnového ujednání silně doporučována a v praxi zcela obvyklá. Ústně sjednané ujednání je sice zásadně platné (pokud zákon zvláštní formu nevyžaduje), avšak jeho prokazování je značně obtížné.
+Ani advokátní tarif, ani zákon o advokacii nestanoví pro ujednání o odměně (ani pro samotnou smlouvu o poskytování právních služeb) obecně písemnou formu — uplatní se zásada bezformálnosti právního jednání (§ 559 občanského zákoníku). S ohledem na právní jistotu obou stran a na důkazní pozici v případě sporu o výši odměny je však písemná forma odměnového ujednání silně doporučována a v praxi zcela obvyklá. Ústně sjednané ujednání je sice zásadně platné (pokud zákon zvláštní formu nevyžaduje), avšak jeho prokazování je značně obtížné.
+
+> 📎 **Doslovné znění — § 559 OZ (zákon č. 89/2012 Sb., občanský zákoník):**
+>
+> *Každý má právo zvolit si pro právní jednání libovolnou formu, není-li ve volbě formy omezen ujednáním nebo zákonem.*
 
 Obecná ustanovení o smlouvě a jejích náležitostech (určitost, srozumitelnost, způsobilost stran) se plně uplatní i zde — viz `01-cast1-obecna-ustanoveni.md`.
 
@@ -93,10 +97,31 @@ Přiměřenost se posuzuje s přihlédnutím k:
 - **složitosti věci** — právní a skutkové komplikovanosti, specializaci požadované od advokáta, naléhavosti věci, prestiži a zkušenostem advokáta;
 - **rozsahu a době trvání** poskytovaných právních služeb.
 
-**Zřejmý nepoměr** je kvalifikovaná forma nepřiměřenosti — nestačí, aby odměna byla jen vyšší, než by účastník považoval za ideální; musí jít o nápadný, objektivně zjevný disproporcionalismus. Tento standard je v souladu s obecnou soukromoprávní doktrínou (srov. § 1796 občanského zákoníku o neúměrném zkrácení, resp. obecnou zásadu spravedlivého vyrovnání).
+**Zřejmý nepoměr** je kvalifikovaná forma nepřiměřenosti — nestačí, aby odměna byla jen vyšší, než by účastník považoval za ideální; musí jít o nápadný, objektivně zjevný disproporcionalismus. Tento standard je v souladu s obecnou soukromoprávní doktrínou (srov. § 1793 občanského zákoníku o neúměrném zkrácení a § 1796 o lichvě, resp. obecnou zásadu spravedlivého vyrovnání).
+
+> 📎 **Doslovné znění — § 1793 OZ (zákon č. 89/2012 Sb., občanský zákoník) — neúměrné zkrácení:**
+>
+> *(1) Zaváží-li se strany k vzájemnému plnění a je-li plnění jedné ze stran v hrubém nepoměru k tomu, co poskytla druhá strana, může zkrácená strana požadovat zrušení smlouvy a navrácení všeho do původního stavu, ledaže jí druhá strana doplní, oč byla zkrácena, se zřetelem k ceně obvyklé v době a místě uzavření smlouvy. To neplatí, pokud se nepoměr vzájemných plnění zakládá na skutečnosti, o které druhá strana nevěděla ani vědět nemusela.*
+>
+> *(2) Odstavec 1 se nepoužije pro případ nabytí na komoditní burze, při obchodu s investičním nástrojem podle jiného zákona, v dražbě či způsobem postaveným veřejné dražbě naroveň, ani pro případ sázky nebo hry, anebo při narovnání nebo novaci, pokud byly poctivě učiněny.*
+
+> 📎 **Doslovné znění — § 1796 OZ (zákon č. 89/2012 Sb., občanský zákoník) — lichva:**
+>
+> *Neplatná je smlouva, při jejímž uzavírání někdo zneužije tísně, nezkušenosti, rozumové slabosti, rozrušení nebo lehkomyslnosti druhé strany a dá sobě nebo jinému slíbit či poskytnout plnění, jehož majetková hodnota je k vzájemnému plnění v hrubém nepoměru.*
 
 Právní důsledky ujednání o nepřiměřené odměně jsou sporné:
 - část doktríny dovodí absolutní nebo relativní **neplatnost** příslušného ujednání pro rozpor se zákonem, resp. pro rozpor s dobrými mravy (§ 580 a § 588 občanského zákoníku);
+
+> 📎 **Doslovné znění — § 580 OZ (zákon č. 89/2012 Sb., občanský zákoník):**
+>
+> *(1) Neplatné je právní jednání, které se příčí dobrým mravům, jakož i právní jednání, které odporuje zákonu, pokud to smysl a účel zákona vyžaduje.*
+>
+> *(2) Neplatné je právní jednání, pokud má být podle něho plněno něco nemožného.*
+
+> 📎 **Doslovné znění — § 588 OZ (zákon č. 89/2012 Sb., občanský zákoník):**
+>
+> *Soud přihlédne i bez návrhu k neplatnosti právního jednání, které se zjevně příčí dobrým mravům, anebo které odporuje zákonu a zjevně narušuje veřejný pořádek. To platí i v případě, že právní jednání zavazuje k plnění od počátku nemožnému.*
+
 - alternativně přichází v úvahu **moderace** — soud nebo rozhodce sníží odměnu na přiměřenou výši;
 - ve stavovském řízení může nepřiměřeně vysoká odměna zakládat disciplinární odpovědnost advokáta.
 
