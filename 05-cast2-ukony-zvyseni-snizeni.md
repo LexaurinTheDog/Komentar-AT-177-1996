@@ -206,15 +206,22 @@ Dopadá na trestní věci, kde se veřejné zasedání koná pro rozhodnutí pro
 
 Pro řízení o výkonu rozhodnutí (soudní výkon rozhodnutí dle části šesté o. s. ř. i exekuci dle exekučního řádu) jsou první porada s klientem a převzetí, sepsání návrhu, vyjádření, zastupování při jednání i odvolání proti rozhodnutí honorovány jako poloviční úkony — s výjimkou řízení o návrhu na zastavení nebo částečné zastavení výkonu podle § 268 odst. 1 písm. g) nebo h) o. s. ř. (tato výjimka reflektuje vyšší náročnost sporných řízení o zastavení exekuce z důvodu plnění dluhu nebo jiných okolností).
 
-> 📎 **Doslovné znění — § 268 odst. 1 písm. g) a h) zákona č. 99/1963 Sb., občanský soudní řád:**
->
-> *(1) Výkon rozhodnutí bude zastaven, jestliže*
->
-> *[…]*
->
-> *g) po vydání rozhodnutí zaniklo právo jím přiznané, ledaže byl tento výkon rozhodnutí již proveden; bylo-li právo přiznáno rozsudkem pro zmeškání, bude výkon rozhodnutí zastaven i tehdy, jestliže právo zaniklo před vydáním tohoto rozsudku;*
->
-> *h) výkon rozhodnutí je nepřípustný, protože je tu jiný důvod, pro který rozhodnutí nelze vykonat.*
+> *(1) Mimosmluvní odměna náleží za každý z těchto úkonů právní služby:*
+> *- a) převzetí a příprava zastoupení nebo obhajoby na základě smlouvy o poskytnutí právních služeb,*
+> *- b) první porada s klientem včetně převzetí a přípravy zastoupení nebo obhajoby, je-li klientovi zástupce nebo obhájce ustanoven soudem,*
+> *- c) další porada s klientem přesahující jednu hodinu,*
+> *- d) písemné podání nebo návrh ve věci samé, výzva k plnění se základním skutkovým a právním rozborem předcházející návrhu ve věci samé,*
+> *- e) účast při vyšetřovacích úkonech v přípravném řízení, a to každé započaté dvě hodiny,*
+> *- f) prostudování spisu při skončení vyšetřování, a to každé započaté dvě hodiny,*
+> *- g) účast při úkonu správního nebo jiného orgánu, účast na jednání před soudem nebo jiným orgánem, a to každé započaté dvě hodiny,*
+> *- h) sepsání právního rozboru věci,*
+> *- i) jednání s protistranou, a to každé dvě započaté hodiny,*
+> *- j) návrh na předběžné opatření, dojde-li k němu před zahájením řízení, odvolání proti rozhodnutí o předběžném opatření a vyjádření k nim,*
+> *- k) odvolání, dovolání, návrh na obnovu řízení, žaloba pro zmatečnost, popřípadě stížnost proti rozhodnutí o návrhu na obnovu řízení a vyjádření k nim,*
+> *- l) podnět k podání stížnosti pro porušení zákona a vyjádření ke stížnosti pro porušení zákona,*
+> *- m) sepsání listiny o právním jednání,*
+> *- n) stížnost proti usnesení o zahájení trestního stíhání,*
+> *- o) stížnost proti rozhodnutí o vazbě.*
 
 *Písm. f) — účast při jednání, při němž došlo pouze k vyhlášení rozhodnutí*
 
