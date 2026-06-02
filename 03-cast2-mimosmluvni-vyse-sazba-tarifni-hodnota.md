@@ -74,6 +74,11 @@ Autorizovanou konverzi dokumentů (přeměnu listinného dokumentu na elektronic
 
 *Příklad:* Šestistránkový notářský zápis → 6 × 70 = **420 Kč**. Dokument o 6,5 stranách (při definici strany jako 30 řádků) → 7 × 70 = **490 Kč**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4016/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3EC857136471F200C12583D1002E203A?openDocument) — 30. 1. 2019, kat. A
+  > „Okolnosti odůvodňující mimořádné zvýšení mimosmluvní odměny advokáta podle § 12 odst. 1 vyhlášky č. 177/1996 Sb. spočívají v neobvykle zvýšených odborných či profesních nárocích na advokáta při realizaci konkrétního úkonu právní služby a nelze je paušálně odvozovat od obtížnosti věci, v rámci které je právní služba poskytována"
+
 ---
 
 ### § 7 — Sazba mimosmluvní odměny
@@ -121,6 +126,11 @@ Klíčové slovo je **„započatých"** — každá, byť minimálně, zahájen
 ```
 počet jednotek = ⌈(tarifní hodnota − hranice pásma) / velikost jednotky⌉
 ```
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [5 Tz 8/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A0B3BA2177C4CD7FC125828800518983?openDocument) — 7. 2. 2018, kat. A
+  > „Jestliže byl obviněný ve společném řízení stíhán pro více skutků, lze mu podle § 152 odst. 1 písm. b) tr. ř. uložit povinnost nahradit státu odměnu a hotové výdaje uhrazené ustanovenému obhájci státem, pokud nemá nárok na bezplatnou obhajobu, jen za úkony právní služby, které se týkaly jeho obhajoby ohledně skutků, pro které byl pravomocně uznán vinným. V případech, kdy nelze rozlišit, který úkon obhajoby je vázán ke kterému konkrétnímu skutku, a obviněný byl ve společném řízení alespoň zčásti uznán vinným trestným činem, který u něj zakládal nutnou obhajobu, a zčásti bylo trestní stíhání pro skutek zakládající jiný trestný čin spáchaný s ním v souběhu pravomocně zastaveno nebo obviněný byl pro skutek zakládající takový trestný čin obžaloby zproštěn, soud rozhodující o jeho povinnosti k náhradě odměny a hotových výdajů uhrazených státem ustanovenému obhájci sníží tuto povinnost…"
 
 ---
 
@@ -336,6 +346,11 @@ Pozn.: pohledávky a dluhy jsou zahrnuty symetricky — jejich hodnota vstupuje 
 V dědickém řízení je tarifní hodnotou obvyklá cena **zůstavitelova majetku odpovídající výši dědického podílu klienta**. Jinými slovy, pokud je zůstavitelova pozůstalost oceněna na 5 000 000 Kč a klient dědí 1/4, pak tarifní hodnota = 1 250 000 Kč. Tím se odměna přiměřeně váže k tomu, co advokát pro klienta skutečně zajišťuje.
 
 *Příklad:* Pozůstalost: nemovitost (2 500 000 Kč) + bankovní účet (500 000 Kč) + auto (200 000 Kč) = celkem 3 200 000 Kč. Klient dědí 1/2 → tarifní hodnota = **1 600 000 Kč** (pásmo 6; sazba = 9 100 + ⌈1 400 000/10 000⌉ × 40 = 9 100 + 140 × 40 = 9 100 + 5 600 = **14 700 Kč/úkon**).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 1420/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AA57E8F0B3CD5302C1257BAD002AF94D?openDocument) — 27. 6. 2013, kat. A
+  > „Smluvní pokuta určená procentní sazbou za každý den prodlení s úhradou jistiny až do zaplacení jistiny je ve smyslu ustanovení § 8 odst. 2 advokátního tarifu plněním na dobu neurčitou (do zaplacení jiného plnění - jistiny), takže tarifní hodnota předmětu právní služby se stanoví pětinásobkem hodnoty ročního plnění. Dovolání proti rozhodnutí, jímž odvolací soud potvrdil rozhodnutí soudu prvního stupně o žalobě na obnovu řízení, je dovoláním proti rozhodnutí, které není rozhodnutím „ve věci samé“ takže za úkon právní služby spočívající ve vyjádření k takovému dovolání náleží mimosmluvní odměna ve výši jedné poloviny (§ 11 odst. 1 písm. k/, odst. 2 písm. c/ a odst. 3 advokátního tarifu)"
 
 ---
 
@@ -566,6 +581,19 @@ Nejnižší zákonná fikce, určená pro situaci, kdy advokát vykonává funkc
 > *(2) Soud jmenuje právnické osobě opatrovníka, a to i bez návrhu, jsou-li zájmy člena statutárního orgánu v rozporu se zájmy právnické osoby a nemá-li právnická osoba jiného člena orgánu schopného ji zastupovat.*
 
 Sazba za úkon při tarifní hodnotě 5 000 Kč: **1 500 Kč/úkon** (pásmo 4, pevná sazba — tarifní hodnota 5 000 Kč spadá do pásma 4: přes 5 000 Kč … ale pozor: 5 000 Kč přesně je v pásmu 4 jen při přísném čtení „přes 5 000 Kč"; hodnota přesně 5 000 Kč patří ještě do pásma 3 → sazba 1 000 Kč). Zákonná fikce je však pevná — 5 000 Kč — a soudy ji standardně podřazují pod pásmo 4 jako hodnotu „do 10 000 Kč".
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [1 Tmo 2/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CC329037B141BF33C12589340047B3D1?openDocument) — 4. 5. 2022, kat. A
+  > „Při stanovení odměny za činnost advokáta jako opatrovníka ustanoveného mladistvému podle § 43 odst. 2 z. s. m. nelze vycházet z tarifní hodnoty podle § 10 odst. 3 advokátního tarifu, protože nejde o výkon obhajoby, ale je třeba použít § 9 odst. 1 advokátního tarifu, neboť jde o zastupování v řízení, v němž nelze hodnotu věci nebo práva vyjádřit v penězích a zároveň advokátní tarif nestanoví jinak"
+- *NS* [25 Cdo 3771/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A109CC7AE8151C7EC125872B001874D0?openDocument) — 27. 5. 2021, kat. A
+  > „Ve věcech peněžité náhrady nemajetkové újmy při ublížení na zdraví podle § 2958 o. z., jež představuje zásah do osobnostního práva, činí tarifní hodnota 50.000 Kč podle § 9 odst. 4 písm. a/ vyhlášky č. 177/1996 Sb. (ve znění pozdějších předpisů)"
+- *NS* [25 Cdo 2060/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0181E300FE5EB053C125870C0043B990?openDocument) — 29. 4. 2021, kat. A
+  > „Ve věcech peněžité náhrady za zásah do práva na soukromý a rodinný život způsobený usmrcením osoby blízké podle § 2959 o. z. se pro účely určení tarifní hodnoty postupuje podle § 9 odst. 4 písm. a) vyhlášky č. 177/1996 Sb. (ve znění pozdějších předpisů)"
+- *NS* [26 Cdo 3078/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3FBC557D6165489EC1257F16003665B4?openDocument) — 1. 10. 2015, kat. A
+  > „Předmět řízení o uznání a výkonu cizozemského rozhodnutí podle nařízení Rady (ES) č. 44/2001 ze dne 22. 12. 2000 o příslušnosti a uznávání a výkonu soudních rozhodnutí v občanských a obchodních věcech není penězi ocenitelný. Za tarifní hodnotu pro určení odměny advokáta se proto v tomto řízení považuje částka 10 000 Kč (§ 9 odst. 1 vyhlášky č. 177/1996 Sb., ve znění pozdějších předpisů)"
+- *NS* [29 ICdo 19/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BA271338E9C14A1FC1257B89002E7CFD?openDocument) — 30. 5. 2013, kat. A
+  > „Nejde-li o dovolání proti rozhodnutí odvolacího soudu ve věci samé, přísluší advokátu mimosmluvní odměna (vypočtená z příslušné tarifní hodnoty) za úkon právní služby, jímž je vyjádření k dovolání, ve výši jedné poloviny (§ 11 odst. 1 písm. k/, odst. 2 písm. c/ a odst. 3 advokátního tarifu)"
 
 ---
 
