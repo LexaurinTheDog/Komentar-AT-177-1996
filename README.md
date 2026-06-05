@@ -32,6 +32,10 @@ Komentář byl sestaven AI asistentem (Claude) **výhradně z lokálních materi
 
 Tento komentář **není autoritativním právním stanoviskem**. Slouží jako orientační průvodce materií odměňování advokátů. Pro praktickou aplikaci je nutné ověřit aktuální znění vyhlášky a navazující judikaturu a v případě potřeby konzultovat advokáta. Sazby a tarifní hodnoty odpovídají znění účinnému k 15. 1. 2026 a mohou být dalšími novelami změněny.
 
+## Důvodová zpráva
+
+Původní **důvodová zpráva** k předpisu je k dispozici v souboru [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) — podklad pro historický a teleologický výklad.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
