@@ -79,6 +79,43 @@ Autorizovanou konverzi dokumentů (přeměnu listinného dokumentu na elektronic
 - *NS* [30 Cdo 4016/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3EC857136471F200C12583D1002E203A?openDocument) — 30. 1. 2019, kat. A
   > „Okolnosti odůvodňující mimořádné zvýšení mimosmluvní odměny advokáta podle § 12 odst. 1 vyhlášky č. 177/1996 Sb. spočívají v neobvykle zvýšených odborných či profesních nárocích na advokáta při realizaci konkrétního úkonu právní služby a nelze je paušálně odvozovat od obtížnosti věci, v rámci které je právní služba poskytována"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokátka Dr. N. zastupovala žalobce ve sporu o zaplacení 120 000 Kč z titulu nezaplacené kupní ceny. Žalobce měl ve věci plný úspěch. Mezi advokátkou a klientem byla sjednána hodinová smluvní odměna, podle níž klient zaplatil 60 000 Kč. Soud nyní rozhoduje o náhradě nákladů řízení proti žalovanému. Účastníky jsou: žalobce (klient advokátky), žalovaný (povinný k náhradě nákladů), advokátka (zástupkyně). Právně významnými skutečnostmi jsou: plný úspěch žalobce (§ 142 odst. 1 o.s.ř.), počet a druh úkonů právní služby, tarifní hodnota 120 000 Kč a status advokátky jako plátkyně DPH. Důkazy / podklady: plná moc, obsah spisu prokazující jednotlivé úkony (převzetí, žaloba, účast na jednání), doklad o registraci advokátky k DPH.
+
+**2. Právní otázka.** Vychází soud při přiznání náhrady nákladů řízení z mimosmluvní odměny dle vyhlášky (§ 6 odst. 1), nebo je vázán vyšší smluvní odměnou, kterou klient advokátce reálně zaplatil?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 6 odst. 1 AT — výše mimosmluvní odměny = sazba za úkon (§ 7) × počet úkonů (§ 11 n.).
+- *Související ustanovení téhož zákona:* § 7 (sazba dle tarifní hodnoty), § 8 (stanovení tarifní hodnoty 120 000 Kč), § 11 (uznané úkony), § 13 (paušální náhrady hotových výdajů).
+- *Související předpisy:* § 142 odst. 1 o.s.ř. (náhrada nákladů úspěšnému účastníku), § 137 odst. 3 o.s.ř. (náhrada DPH), § 151 o.s.ř. (rozhodnutí o nákladech).
+- *Judikatura:* NS 30 Cdo 4016/2016 (citováno v komentáři) — mimořádné zvýšení odměny dle § 12 odst. 1 nelze odvozovat paušálně od obtížnosti věci. Obecně též ustálený závěr, že náhrada nákladů řízení od protistrany se řídí tarifem, nikoliv sjednanou smluvní odměnou (vztah klient–advokát je oddělen od vztahu povinný–oprávněný).
+
+**4. Subsumpce.** Pod znak „sazba za jeden úkon" se podřadí sazba odvozená z tarifní hodnoty 120 000 Kč dle § 7 (pásmo 5). Pod znak „počet úkonů" se podřadí úkony skutečně vykonané a uznané dle § 11 (zde převzetí, žaloba, účast na jednání). Splněn je předpoklad plného úspěchu (§ 142 odst. 1 o.s.ř.). Sporné není nic — smluvní odměna 60 000 Kč je pro výpočet náhrady nákladů irelevantní, neboť § 6 odst. 1 váže náhradu na mimosmluvní (tarifní) výpočet.
+
+**5. Řešení.** Soud přizná náhradu nákladů řízení ve výši mimosmluvní odměny: sazba za úkon při tarifní hodnotě 120 000 Kč = 1 500 + ⌈110 000/1 000⌉ × 40 = 1 500 + 4 400 = 5 900 Kč/úkon; při 3 úkonech 17 700 Kč + 3 × paušál 300 Kč (§ 13) + 21 % DPH. Skutečnost, že klient zaplatil advokátce smluvně 60 000 Kč, výši přiznané náhrady nezvyšuje ani nesnižuje. Procesní krok: advokátka doloží počet úkonů a registraci k DPH; soud rozhodne v rámci nákladového výroku rozsudku.
+
+**6. Varianty.** (a) Pokud by advokátka byla soudem ustanovena (§ 30 o.s.ř.) a klient osvobozen od soudních poplatků, odměnu dle tarifu hradí stát — výpočet podle § 6 odst. 1 je shodný, mění se jen plátce. (b) Pokud by předmětem byla správa nájemního domu (nikoliv spor o zaplacení), neaplikoval by se odst. 1, nýbrž zvláštní vzorec odst. 2 (10 % ročního příjmu, min. 10 000 Kč).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „klient zaplatil více, ať to dostane zpět":* Bylo by spravedlivé, aby protistrana nahradila reálně vynaložené (smluvní) náklady. Neutralizace: náhrada nákladů řízení je objektivizovaná tarifem (§ 6 odst. 1 ve spojení s § 142 o.s.ř.); smluvní volnost stran nemůže zatěžovat protistranu. Reálně zaplacená smluvní odměna je vztah inter partes mezi klientem a advokátem.
+- *Riziko špatného počtu úkonů:* Nejčastější chybou je nesprávné započtení úkonů (např. duplicitní účast na jednání téhož dne). Slabým místem je důkazní doložení každého úkonu — bez podkladů ve spise soud úkon neuzná.
+- *Riziko u odst. 2–4:* U správy majetku se zaměňuje „příjem ze spravovaného majetku" s tržní hodnotou majetku; u prohlášení o pravosti podpisu a konverze se přehlíží, že jde o samostatné paušály (70 Kč), nikoliv o úkon právní služby zvyšitelný o DPH v rámci jiné zakázky.
+
+#### H. Praktický závěr
+
+Výše mimosmluvní odměny je vždy součinem sazby (§ 7) a počtu úkonů (§ 11 n.); pro náhradu nákladů řízení je rozhodný tarif, nikoliv smluvní odměna klienta. Zvláštní složky (správa majetku, legalizace podpisu, konverze) se počítají vlastními vzorci dle odst. 2–4.
+
+**Checklist (advokát / soud):**
+- [ ] Stanovena správně tarifní hodnota (§ 8) jako vstup pro sazbu?
+- [ ] Identifikovány a doloženy všechny uznané úkony (§ 11)?
+- [ ] Ověřen status plátce DPH (§ 137 odst. 3 o.s.ř.)?
+- [ ] U správy majetku použit vzorec 10 % ročního příjmu / min. 10 000 Kč (odst. 2), nezaměněn s hodnotou majetku?
+- [ ] U legalizace podpisu / konverze účtováno 70 Kč za jednotku (odst. 3, 4) odděleně?
+
+**Typicky rozhodné důkazy / podklady:** plná moc, spis prokazující jednotlivé úkony, doklad o registraci k DPH; u správy majetku doklad o ročních příjmech; u konverze počet stran dokumentu.
+
 ---
 
 ### § 7 — Sazba mimosmluvní odměny
@@ -241,6 +278,43 @@ Sazba dle § 7 je základem, k němuž se připočítá DPH, je-li advokát plá
 >
 > *d) advokát, který je zaměstnancem jiného advokáta nebo právnické osoby zřízené za účelem výkonu advokacie podle zvláštního právního předpisu, a plátcem daně z přidané hodnoty podle zvláštního právního předpisu je tento zaměstnavatel advokáta.*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát uplatnil v nákladovém vyúčtování sazbu za úkon vypočtenou z tarifní hodnoty 300 001 Kč a žádal 9 540 Kč/úkon. Protistrana namítá, že tarifní hodnota byla zaokrouhlena chybně a správná sazba je 9 500 Kč (jako u hodnoty 300 000 Kč). Účastníci: advokát úspěšného žalobce, žalovaný (povinný k náhradě), soud rozhodující o nákladech. Právně významné: přesná tarifní hodnota (vstup do pásma 6), správné použití funkce „strop" u započatých jednotek 10 000 Kč. Důkazy / podklady: žalobní petit prokazující výši nároku (300 001 Kč), výpočet sazby.
+
+**2. Právní otázka.** Jak se počítá počet „započatých" jednotek (10 000 Kč) v pásmu 6 § 7, překračuje-li tarifní hodnota hranici pásma o pouhou 1 Kč nad celý násobek jednotky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 7 bod 6 AT — sazba 9 100 Kč + 40 Kč za každých započatých 10 000 Kč nad 200 000 Kč.
+- *Související ustanovení téhož zákona:* § 6 odst. 1 (sazba × počet úkonů), § 8 (stanovení tarifní hodnoty), § 9–9a (fiktivní tarifní hodnoty vstupující do téhož sazebníku).
+- *Související předpisy:* § 142 o.s.ř. (náhrada nákladů), § 151 odst. 2 o.s.ř. (paušální určení náhrady).
+- *Judikatura:* NS 5 Tz 8/2017 (citováno v komentáři) — povinnost k náhradě odměny ustanovenému obhájci se počítá jen za úkony vztahující se ke skutkům, jimiž byl obviněný uznán vinným; ilustruje, že počet úkonů a jejich přiřazení je nedílnou součástí výpočtu vedle sazby.
+
+**4. Subsumpce.** Tarifní hodnota 300 001 Kč spadá do pásma 6 (přes 200 000 do 10 000 000 Kč). Přebytek nad spodní hranicí pásma = 300 001 − 200 000 = 100 001 Kč. Pod znak „každých započatých 10 000 Kč" se podřadí ⌈100 001/10 000⌉ = 11 jednotek (nikoliv 10), protože jedenáctá jednotka byla „započata" jedinou korunou. Splněn je tak znak diskontinuity, který advokát uplatnil správně.
+
+**5. Řešení.** Správná sazba = 9 100 + 11 × 40 = 9 540 Kč/úkon. Námitka protistrany je nedůvodná: slovo „započatých" vylučuje zaokrouhlení dolů, každá zahájená jednotka se počítá celá. Procesní krok: advokát v replice k nákladové námitce odkáže na text § 7 a předloží přesný výpočet stropem. Riziko: chyba o jednu jednotku (zde rozdíl 40 Kč/úkon, při více úkonech znatelný); alternativní výklad „zaokrouhlení dolů" je v rozporu s dikcí předpisu.
+
+**6. Varianty.** (a) Byla-li by tarifní hodnota přesně 300 000 Kč, vyšlo by ⌈100 000/10 000⌉ = 10 jednotek a sazba 9 500 Kč. (b) Klesla-li by tarifní hodnota do pásma 5 (např. 50 000 Kč), použila by se jiná jednotka (1 000 Kč) a základ 1 500 Kč → sazba 3 100 Kč/úkon.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „přiměřené zaokrouhlení":* Lze namítat, že rozdíl jediné koruny nemůže odůvodnit vyšší sazbu. Neutralizace: § 7 používá jednoznačný pojem „započatých", který je matematicky určitý (funkce strop); soud nemá prostor pro dotváření „spravedlivějšího" zaokrouhlení.
+- *Slabé místo — vstupní tarifní hodnota:* Celý výpočet stojí a padá se správným stanovením tarifní hodnoty dle § 8 (resp. § 9/9a). Chyba v ní (např. započtení příslušenství) zkresluje sazbu mnohem výrazněji než hraniční koruna.
+- *Riziko záměny pásem:* U hodnot na rozhraní pásem (200 000 Kč, 10 000 000 Kč) hrozí použití nesprávné základní částky i nesprávné velikosti jednotky; nutno ověřit, do kterého pásma hodnota patří podle dikce „přes … do …".
+
+#### H. Praktický závěr
+
+Sazba za úkon je u pásem 1–4 pevná a u pásem 5–7 degresivně klouzavá; počet přírůstkových jednotek se vždy počítá funkcí „strop" (každá započatá jednotka celá). Rozhodující je přesné zařazení tarifní hodnoty do správného pásma.
+
+**Checklist (advokát / soud):**
+- [ ] Určeno správné pásmo dle dikce „přes X do Y"?
+- [ ] Použita správná základní částka pásma (300 / 500 / 1 000 / 1 500 / 9 100 / 48 300 Kč)?
+- [ ] Spočítán přebytek nad spodní hranicí pásma?
+- [ ] Počet jednotek zaokrouhlen NAHORU (strop), nikoliv dolů?
+- [ ] Výsledná sazba vynásobena počtem uznaných úkonů (§ 6 odst. 1)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o tarifní hodnotě (žalobní petit, ocenění), přehledný výpočet sazby pásmo–přebytek–jednotky–přírůstek.
+
 ---
 
 ### § 8 — Tarifní hodnota (obecná)
@@ -351,6 +425,43 @@ V dědickém řízení je tarifní hodnotou obvyklá cena **zůstavitelova majet
 
 - *NS* [29 Cdo 1420/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AA57E8F0B3CD5302C1257BAD002AF94D?openDocument) — 27. 6. 2013, kat. A
   > „Smluvní pokuta určená procentní sazbou za každý den prodlení s úhradou jistiny až do zaplacení jistiny je ve smyslu ustanovení § 8 odst. 2 advokátního tarifu plněním na dobu neurčitou (do zaplacení jiného plnění - jistiny), takže tarifní hodnota předmětu právní služby se stanoví pětinásobkem hodnoty ročního plnění. Dovolání proti rozhodnutí, jímž odvolací soud potvrdil rozhodnutí soudu prvního stupně o žalobě na obnovu řízení, je dovoláním proti rozhodnutí, které není rozhodnutím „ve věci samé“ takže za úkon právní služby spočívající ve vyjádření k takovému dovolání náleží mimosmluvní odměna ve výši jedné poloviny (§ 11 odst. 1 písm. k/, odst. 2 písm. c/ a odst. 3 advokátního tarifu)"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát zastupoval věřitele ve sporu o zaplacení 100 000 Kč jistiny ze smlouvy o zápůjčce; v téže žalobě uplatnil i 18 000 Kč úroků z prodlení. Po úspěchu ve věci vyúčtoval náklady řízení ze sazby vypočtené z tarifní hodnoty 118 000 Kč. Protistrana (povinný k náhradě) namítá, že úroky z prodlení jsou příslušenstvím a do tarifní hodnoty se nezapočítávají. Účastníci: advokát úspěšného žalobce, žalovaný, soud rozhodující o nákladech. Právně významné: rozlišení jistiny a příslušenství, okamžik započetí úkonu pro určení hodnoty, jednotnost žaloby (jistina i úroky v jednom petitu). Důkazy / podklady: žaloba a její petit, z nějž plyne, že úroky byly uplatněny jako akcesorický nárok, nikoliv samostatně.
+
+**2. Právní otázka.** Započítává se úrok z prodlení uplatněný v téže žalobě spolu s jistinou do tarifní hodnoty podle § 8 odst. 1, nebo se k němu jako k příslušenství nepřihlíží?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 8 odst. 1 AT — tarifní hodnotou je výše peněžitého plnění v době započetí úkonu; k příslušenství se nepřihlíží, ledaže je požadováno jako samostatný nárok.
+- *Související ustanovení téhož zákona:* § 7 (sazba z tarifní hodnoty), § 8 odst. 2 (opětující se plnění — pětinásobek ročního plnění u doby neurčité), § 9 (fikce, neuplatní se u ocenitelné peněžité částky).
+- *Související předpisy:* § 513 o.z. (příslušenství pohledávky — úroky, úroky z prodlení, náklady spojené s uplatněním), § 121 odst. 3 o.z. (dříve), § 151 odst. 2 o.s.ř.
+- *Judikatura:* NS 29 Cdo 1420/2013 (citováno v komentáři) — smluvní pokuta „za každý den prodlení až do zaplacení jistiny" je plněním na dobu neurčitou, tarifní hodnota se stanoví pětinásobkem ročního plnění (§ 8 odst. 2); ilustruje přesnou práci s pojmem příslušenství a opětujícího se plnění.
+
+**4. Subsumpce.** Pod znak „výše peněžitého plnění" se podřadí jistina 100 000 Kč. Pod znak „příslušenství, k němuž se nepřihlíží" se podřadí úroky z prodlení 18 000 Kč, neboť byly uplatněny společně s jistinou v jednom petitu, tedy nikoliv jako „samostatný nárok". Podmínka pro připočtení příslušenství (samostatné uplatnění) splněna není. Tarifní hodnota proto činí 100 000 Kč.
+
+**5. Řešení.** Námitka protistrany je důvodná: tarifní hodnota = 100 000 Kč (nikoliv 118 000 Kč). Sazba = 1 500 + ⌈90 000/1 000⌉ × 40 = 1 500 + 3 600 = 5 100 Kč/úkon. Procesní krok: advokát by měl vyúčtování opravit; soud by jinak náklady přiznal jen z hodnoty 100 000 Kč. Riziko: nadhodnocení tarifní hodnoty vede k částečnému nepřiznání náhrady a může být vykládáno jako účelové. Alternativní výklad (samostatnost úroků) by obstál jen tehdy, byly-li by úroky předmětem odděleného řízení nebo odděleného nároku.
+
+**6. Varianty.** (a) Žaloval-li by advokát úroky 18 000 Kč zvláštní žalobou (po pravomocném rozsudku o jistině), byla by v onom řízení tarifní hodnotou částka 18 000 Kč (samostatný nárok). (b) Šlo-li by o vypořádání SJM, určila by se tarifní hodnota dle odst. 6 jako polovina souhrnu hodnot věcí, pohledávek a dluhů; u dědictví dle odst. 7 jako obvyklá cena majetku odpovídající podílu klienta.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „úroky tvoří významnou část hodnoty sporu":* Lze namítat, že vymáhání vysokých úroků zvyšuje náročnost. Neutralizace: § 8 odst. 1 výslovně vylučuje příslušenství z tarifní hodnoty bez ohledu na jeho výši; jediným zákonným způsobem, jak je zahrnout, je samostatné uplatnění.
+- *Slabé místo — okamžik ocenění:* Hodnota se stanoví k době započetí úkonu, ne ke dni žaloby či rozsudku; u věcí s kolísavou cenou (nemovitosti, akcie) je nutné doložit hodnotu k relevantnímu okamžiku, jinak hrozí spor o vstupní hodnotu.
+- *Riziko u odst. 5 a 6:* U zrušení/vypořádání spoluvlastnictví závisí hodnota na směřování návrhu (odečet podílu klienta vs. ostatních); u SJM se počítá z poloviny souhrnu — chybné určení základu (např. zahrnutí věcí, které strany nepředložily k vypořádání) zkresluje sazbu.
+
+#### H. Praktický závěr
+
+Tarifní hodnota se obecně rovná výši peněžitého plnění nebo ceně věci/práva v době započetí úkonu; příslušenství se nezapočítává, ledaže je samostatným nárokem. Pro opětující se plnění, spoluvlastnictví, SJM a dědictví platí zvláštní vzorce odst. 2–7.
+
+**Checklist (advokát / soud):**
+- [ ] Oddělena jistina od příslušenství; příslušenství vyloučeno, není-li samostatným nárokem?
+- [ ] Stanovena hodnota k okamžiku započetí úkonu (ne ke dni žaloby/rozsudku)?
+- [ ] U opětujícího se plnění aplikován strop 5× ročního plnění (doba > 5 let / neurčitá)?
+- [ ] U spoluvlastnictví zohledněno směřování návrhu (odst. 5)?
+- [ ] U SJM použita polovina souhrnu předložených věcí, pohledávek a dluhů (odst. 6); u dědictví podíl klienta (odst. 7)?
+
+**Typicky rozhodné důkazy / podklady:** žalobní petit (rozlišení jistiny/příslušenství), ocenění věci k době úkonu (znalecký posudek, tržní doklad), u SJM/dědictví soupis a ocenění majetku.
 
 ---
 
@@ -595,6 +706,43 @@ Sazba za úkon při tarifní hodnotě 5 000 Kč: **1 500 Kč/úkon** (pásmo 4, 
 - *NS* [29 ICdo 19/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BA271338E9C14A1FC1257B89002E7CFD?openDocument) — 30. 5. 2013, kat. A
   > „Nejde-li o dovolání proti rozhodnutí odvolacího soudu ve věci samé, přísluší advokátu mimosmluvní odměna (vypočtená z příslušné tarifní hodnoty) za úkon právní služby, jímž je vyjádření k dovolání, ve výši jedné poloviny (§ 11 odst. 1 písm. k/, odst. 2 písm. c/ a odst. 3 advokátního tarifu)"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát byl soudem ustanoven opatrovníkem ve věci omezení svéprávnosti (řízení o podpůrném opatření). Vyúčtoval odměnu z tarifní hodnoty 5 000 Kč podle § 9 odst. 7 ve znění novely č. 258/2024 Sb. Klient (resp. veřejný ochránce práv) namítá, že po nálezu Ústavního soudu Pl. ÚS 32/25 (publ. jako 4/2026 Sb.) byla slova zahrnující „svéprávnost" v § 9 odst. 7 zrušena a má se nově uplatnit fikce 10 000 Kč podle § 9 odst. 2. Účastníci: ustanovený advokát-opatrovník, soud rozhodující o jeho odměně, stát jako plátce. Právně významné: druh řízení (svéprávnost = odst. 2), časová působnost nálezu ÚS (derogace ke dni vyhlášení 15. 1. 2026). Důkazy / podklady: ustanovení opatrovníkem, spis prokazující úkony, konsolidované znění tarifu k datu úkonu.
+
+**2. Právní otázka.** Jaká fiktivní tarifní hodnota se uplatní pro odměnu advokáta ustanoveného opatrovníkem ve věci svéprávnosti po derogačním nálezu ÚS — 5 000 Kč (§ 9 odst. 7), nebo 10 000 Kč (§ 9 odst. 2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9 odst. 2 AT (fikce 10 000 Kč pro věci svéprávnosti a opatrovnické) a § 9 odst. 7 AT (fikce 5 000 Kč pro opatrovníka při zrušení a likvidaci PO).
+- *Související ustanovení téhož zákona:* § 7 (sazba — u 10 000 Kč pevných 1 500 Kč/úkon), § 9 odst. 1 (obecná fikce 30 000 Kč), § 9 odst. 6 (ústavní stížnost ve věci opatrovnické → 30 000 Kč), § 12 (snížení odměny).
+- *Související předpisy:* nález ÚS Pl. ÚS 32/25 (publ. 4/2026 Sb.); § 165 o.z. (opatrovník PO); § 466 z.ř.s. (řízení o nezletilých); zákon č. 182/1993 Sb. (ústavní stížnosti).
+- *Judikatura:* NS 1 Tmo 2/2022 (citováno v komentáři) — odměna advokáta jako opatrovníka mladistvého se určuje dle § 9 odst. 1 (10 000 Kč), nejde-li o obhajobu; NS 25 Cdo 3771/2020 a 25 Cdo 2060/2020 — náhrada nemajetkové újmy při ublížení na zdraví / usmrcení osoby blízké → § 9 odst. 4 písm. a); NS 26 Cdo 3078/2015 — uznání a výkon cizozemského rozhodnutí je penězi neocenitelné → § 9 odst. 1.
+
+**4. Subsumpce.** Řízení o omezení svéprávnosti je „věcí svéprávnosti" výslovně uvedenou v § 9 odst. 2 → fikce 10 000 Kč. Derogačním nálezem ÚS byla z § 9 odst. 7 odstraněna slova podřazující mj. svéprávnost pod sníženou hodnotu 5 000 Kč, a to ke dni vyhlášení ve Sbírce (15. 1. 2026). Pro úkony činěné podle konsolidovaného znění k 15. 1. 2026 se proto znak „tarifní hodnota 5 000 Kč" na věc svéprávnosti nepodřadí; aplikuje se odst. 2.
+
+**5. Řešení.** Tarifní hodnota = 10 000 Kč (§ 9 odst. 2); sazba = 1 500 Kč/úkon (pásmo 4, pevná). Námitka je důvodná: po derogaci se na věci svéprávnosti a další vyjmenované opatrovnické věci uplatní 10 000 Kč, nikoliv 5 000 Kč. Procesní krok: advokát vyúčtuje odměnu z hodnoty 10 000 Kč; soud při ustanovení opatrovníka přizná odměnu podle aktuálního (konsolidovaného) znění. Riziko: u úkonů provedených před účinností derogace je nutné posoudit časovou působnost; alternativně lze odměnu snížit dle § 12, jsou-li dány důvody.
+
+**6. Varianty.** (a) Jde-li o opatrovníka při zrušení a likvidaci právnické osoby (§ 9 odst. 7 ve zbytku, jejž ÚS ponechal), zůstává tarifní hodnota 5 000 Kč. (b) Podá-li opatrovník ve věci svéprávnosti ústavní stížnost, neuplatní se 128 000 Kč, nýbrž dle § 9 odst. 6 věty druhé (opatrovnická věc / péče o nezletilé) zvláštní hodnota 30 000 Kč.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „odst. 7 je speciální k odst. 2":* Lze namítat, že § 9 odst. 7 jako pozdější a zvláštní úprava má přednost. Neutralizace: ÚS derogoval právě tu část odst. 7, která svéprávnost zahrnovala; po derogaci kolize neexistuje a aplikuje se obecnější odst. 2 (10 000 Kč), jak konstatuje komentované konsolidované znění.
+- *Slabé místo — časová působnost:* Pro úkony před 15. 1. 2026 je sporné, zda lze retroaktivně užít 10 000 Kč; nutno vázat hodnotu na znění účinné v době započetí úkonu (§ 8 odst. 1 přiměřeně). Chybějícím zdrojem může být přechodné ustanovení k derogaci — řešit přímou aplikací nálezu.
+- *Riziko záměny kategorií:* Stejný typ určovací žaloby spadá pod 65 000 Kč (odst. 3) nebo 113 000 Kč (odst. 4) podle předmětu (obchodní závod / nemovitost / duševní vlastnictví); osobnostní a nekalosoutěžní věci přecházejí na § 9a, je-li uplatněna náhrada újmy / zadostiučinění.
+
+#### H. Praktický závěr
+
+Fikce § 9 jsou pevné zákonné paušály odstupňované podle typizované náročnosti řízení (10 000 / 30 000 / 65 000 / 88 000 / 113 000 / 128 000 Kč, resp. 5 000 Kč u opatrovníka PO). Po nálezu ÚS Pl. ÚS 32/25 se na věci svéprávnosti a další vyjmenované opatrovnické věci uplatní 10 000 Kč dle odst. 2, nikoliv 5 000 Kč.
+
+**Checklist (advokát / soud):**
+- [ ] Jde skutečně o věc penězi neocenitelnou, nebo lze hodnotu zjistit (pak § 8 / § 9a)?
+- [ ] Zařazena věc do správného odstavce § 9 podle jejího typu?
+- [ ] U opatrovnických věcí zohledněn nález ÚS Pl. ÚS 32/25 (svéprávnost → 10 000 Kč, ne 5 000 Kč)?
+- [ ] U ústavní stížnosti ověřeno, zda nejde o opatrovnickou věc / péči o nezletilé (→ 30 000 Kč dle odst. 6)?
+- [ ] Posouzeno případné snížení odměny dle § 12?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o ustanovení opatrovníka/zástupce, spis prokazující úkony, konsolidované znění tarifu k době úkonu, případně nález ÚS pro určení rozhodné fikce.
+
 ---
 
 ### § 9a — Zvláštní tarifní hodnota s limitem 500 000 Kč
@@ -685,6 +833,43 @@ Sazba za úkon při tarifní hodnotě 3 000 000 Kč:
 - Počet zapoatých deseti tisíc: ⌈2 800 000/10 000⌉ = 280 jednotek
 - Přírůstek: 280 × 40 = 11 200 Kč
 - **Sazba = 9 100 + 11 200 = 20 300 Kč/úkon**
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Fyzická osoba (nepodnikatel) žaluje vydavatele celostátního deníku za neoprávněné uveřejnění informací ze svého soukromého života a požaduje náhradu nemajetkové újmy ve výši 2 000 000 Kč. Po úspěchu ve věci advokát vyúčtoval náklady řízení ze sazby vypočtené z tarifní hodnoty 2 000 000 Kč. Protistrana (vydavatel) namítá, že tarifní hodnota je dle § 9a odst. 1 písm. a) limitována částkou 500 000 Kč. Účastníci: advokát úspěšného žalobce, žalovaný vydavatel, soud rozhodující o nákladech. Právně významné: povaha věci (osobnostní právo s návrhem na náhradu nemajetkové újmy), absence podnikatelského vztahu (nejde o B2B dle odst. 3), výše žalovaného plnění. Důkazy / podklady: žaloba s petitem na náhradu nemajetkové újmy, doklad o postavení žalobce jako nepodnikatele.
+
+**2. Právní otázka.** Stanoví se tarifní hodnota ve věci osobnostních práv s návrhem na náhradu nemajetkové újmy ve výši žalovaných 2 000 000 Kč, nebo je omezena stropem 500 000 Kč podle § 9a odst. 1?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9a odst. 1 písm. a) AT — tarifní hodnotou je výše plnění, nejvýše však 500 000 Kč, ve věcech osobnostních práv s návrhem na náhradu nemajetkové újmy.
+- *Související ustanovení téhož zákona:* § 9 odst. 3 písm. d) (osobnostní práva BEZ náhrady újmy → 65 000 Kč), § 9a odst. 3 (B2B duševní vlastnictví / nekalá soutěž — BEZ limitu), § 7 (sazba; u 500 000 Kč = 10 300 Kč/úkon), § 8 (obecné určení hodnoty).
+- *Související předpisy:* § 81 a násl. o.z. (ochrana osobnosti), § 2956 o.z. (náhrada nemajetkové újmy); zákon č. 82/1998 Sb. (odpovědnost státu — § 9a odst. 2).
+- *Judikatura:* NS 25 Cdo 3771/2020 a NS 25 Cdo 2060/2020 (citováno v komentáři) — peněžitá náhrada nemajetkové újmy při ublížení na zdraví (§ 2958 o.z.) a za zásah usmrcením osoby blízké (§ 2959 o.z.) → tarifní hodnota dle § 9 odst. 4 písm. a) (50 000 Kč); ukazuje pečlivé odlišování titulů náhrady újmy a jim odpovídajících tarifních hodnot.
+
+**4. Subsumpce.** Věc je věcí osobnostních práv s návrhem na náhradu nemajetkové újmy → podřaditelná pod § 9a odst. 1 písm. a). Pod znak „výše peněžitého plnění" se podřadí 2 000 000 Kč; pod znak „nejvýše však částka 500 000 Kč" se podřadí strop. Znak vylučující limit (vztah mezi podnikateli z podnikatelské činnosti, odst. 3) splněn není — žalobce je nepodnikatel. Tarifní hodnota proto činí min(2 000 000; 500 000) = 500 000 Kč.
+
+**5. Řešení.** Tarifní hodnota = 500 000 Kč; sazba = 9 100 + ⌈300 000/10 000⌉ × 40 = 9 100 + 1 200 = 10 300 Kč/úkon. Námitka protistrany je důvodná: ze žalovaných 2 000 000 Kč se náklady nepřiznávají, strop je 500 000 Kč. Procesní krok: advokát vyúčtuje náklady z hodnoty 500 000 Kč. Riziko: nadhodnocení na 2 000 000 Kč vede k částečnému nepřiznání náhrady. Alternativní výklad (plná hodnota) by obstál pouze u B2B věcí dle odst. 3, o které zde nejde.
+
+**6. Varianty.** (a) Šlo-li by o spor dvou podnikatelů o porušení ochranné známky se zadostiučiněním z podnikatelské činnosti, uplatnil by se § 9a odst. 3 (BEZ limitu) → tarifní hodnota = plná žalovaná částka. (b) Žaloval-li by klient ochranu osobnosti BEZ náhrady nemajetkové újmy (jen zdržovací/odstraňovací nárok), uplatnila by se fikce 65 000 Kč dle § 9 odst. 3 písm. d). (c) U odpovědnosti státu (§ 9a odst. 2) by tarifní hodnotou byla výše PŘIZNANÉ (nikoliv žalované) náhrady, max. 500 000 Kč, jinak 30 000 Kč.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „limit odporuje plnému odškodnění":* Lze namítat, že strop 500 000 Kč krátí úspěšného účastníka na náhradě nákladů, ač žaloval mnohonásobně více. Neutralizace: limit je výslovným pravidlem § 9a odst. 1 sledujícím přiměřenost odměny a přístup poražené strany ke spravedlnosti; jde o vědomou volbu zákonodárce, soud ji nemůže obejít.
+- *Slabé místo — rozlišení odst. 1 vs. odst. 3:* Klíčové je zjištění, zda jde o vztah mezi podnikateli z podnikatelské činnosti (odst. 3, bez limitu) nebo nikoliv (odst. 1, s limitem). Chybná kvalifikace vztahu zásadně mění tarifní hodnotu; nutno doložit povahu stran a původ sporu.
+- *Riziko u odst. 2 (odpovědnost státu):* Tarifní hodnota se odvíjí od PŘIZNANÉ, nikoliv žalované náhrady — konečnou hodnotu lze určit až po skončení věci; u nepeněžního zadostiučinění (omluva, konstatování porušení) platí fikce 30 000 Kč. Předčasné vyúčtování z žalované částky je chybné.
+
+#### H. Praktický závěr
+
+§ 9a stanoví pro osobnostní práva, duševní vlastnictví a nekalou soutěž s návrhem na náhradu újmy / zadostiučinění tarifní hodnotu ve výši skutečného plnění, avšak se stropem 500 000 Kč; u vztahů mezi podnikateli z podnikatelské činnosti (odst. 3) se limit neuplatní. U odpovědnosti státu (odst. 2) je rozhodná přiznaná náhrada, jinak fikce 30 000 Kč.
+
+**Checklist (advokát / soud):**
+- [ ] Jde o věc s návrhem na náhradu nemajetkové újmy / zadostiučinění (jinak § 9 odst. 3 — bez náhrady)?
+- [ ] Jde o vztah mezi podnikateli z podnikatelské činnosti → odst. 3 BEZ limitu, jinak odst. 1 S limitem 500 000 Kč?
+- [ ] Při překročení 500 000 Kč použit strop, nikoliv plná žalovaná částka (odst. 1)?
+- [ ] U odpovědnosti státu vycházeno z PŘIZNANÉ náhrady (max. 500 000 Kč), resp. 30 000 Kč u nepeněžního zadostiučinění (odst. 2)?
+- [ ] Sazba za úkon dopočtena z výsledné tarifní hodnoty dle § 7?
+
+**Typicky rozhodné důkazy / podklady:** žaloba s petitem (titul a výše náhrady újmy/zadostiučinění), doklad o (ne)podnikatelské povaze stran a o souvislosti s podnikatelskou činností, u odpovědnosti státu pravomocné rozhodnutí o výši přiznané náhrady.
 
 ---
 

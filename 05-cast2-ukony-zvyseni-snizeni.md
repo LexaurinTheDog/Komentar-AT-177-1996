@@ -278,6 +278,43 @@ Výčet v odst. 1 a 2 nemůže pokrýt veškerou rozmanitost advokátní praxe. 
 
 Příkladem aplikace analogie je např. kasační stížnost ve správním soudnictví (nejbližší je odvolání či dovolání dle odst. 1 písm. k), ústavní stížnost (nejbližší je dovolání nebo návrh ve věci samé dle odst. 1 písm. d), nebo mediace (nejbližší je jednání s protistranou dle odst. 1 písm. i).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát obhajuje obviněného v přípravném řízení trestním. Po sdělení obvinění (§ 160 tr. ř.) podá obhájce odůvodněnou stížnost proti usnesení o zahájení trestního stíhání, poté se zúčastní výslechu obviněného trvajícího 3 hodiny 15 minut, zúčastní se výslechu klíčového svědka (1 hodina 50 minut), prostuduje vyšetřovací spis při skončení vyšetřování o rozsahu 4 hodin 5 minut a sepíše písemné vyjádření k podané obžalobě podle § 196 odst. 2, 3 tr. ř. Při vyúčtování ustanovené obhajoby (odměnu hradí stát) soud část úkonů zpochybní. Důkazy k obstarání: protokoly o výslechu s vyznačením času zahájení a ukončení, záznam policejního orgánu o době prostudování spisu (§ 166 tr. ř.), kopie podání.
+
+**2. Právní otázka.** Kolik plných úkonů právní služby podle § 11 odst. 1 advokátovi náleží, jsou-li některé úkony časově dělitelné po dvou hodinách (písm. e, f, g) a jiné nikoliv (písm. d, n), a je vyjádření k obžalobě podáním „ve věci samé" dle písm. d)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 11 odst. 1 advokátního tarifu — výčet plných úkonů; klíčový princip „každé započaté dvě hodiny" u písm. e), f), g) versus princip „jeden úkon bez ohledu na délku" u písm. d), h), n).
+- *Související ustanovení téhož zákona:* § 11 odst. 3 (analogie u úkonu výslovně neuvedeného); § 7 a § 10 (sazba za úkon a tarifní hodnota v trestní věci, viz `03-cast2-mimosmluvni-vyse-sazba-tarifni-hodnota.md`); § 12 odst. 1 (případné zvýšení u mimořádně obtížného úkonu).
+- *Související předpisy:* § 160 odst. 7, § 166, § 196 odst. 2, 3 tr. ř. (procesní úkony, na něž § 11 navazuje); § 151 odst. 2, 3 tr. ř. (vyúčtování odměny ustanoveného obhájce hrazené státem).
+- *Judikatura:* NS 4 To 32/2021 (písemné vyjádření k obžalobě dle § 196 odst. 2, 3 tr. ř. je úkonem dle § 11 odst. 1 písm. d/); NS 6 To 99/2021 (samotný návrh na provedení důkazů není podáním ve věci samé dle písm. d/); NS 1 Tmo 17/2022 (výčet jednotlivých úkonů a jejich podřazení pod advokátní tarif postačí uvést až v odůvodnění usnesení).
+
+**4. Subsumpce.** Stížnost proti usnesení o zahájení trestního stíhání = 1 plný úkon (písm. n), bez ohledu na délku, musí být obsahově odůvodněná. Výslech obviněného 3 h 15 min = 2 úkony (písm. e, princip každé započaté dvě hodiny — překročení druhé hranice zakládá druhý úkon). Výslech svědka 1 h 50 min = 1 úkon (písm. e, druhá hranice nepřekročena). Prostudování spisu 4 h 5 min = 3 úkony (písm. f, překročení čtvrté hodiny zakládá třetí úkon). Vyjádření k obžalobě = 1 plný úkon (písm. d ve světle NS 4 To 32/2021). Celkem 8 plných úkonů. Sporné je, zda soud uzná dělení po dvou hodinách bez doložení času — proto jsou load-bearing protokoly s vyznačeným časem.
+
+**5. Řešení.** Advokát vyúčtuje 8 plných úkonů. Doloží časy z protokolů a záznamu o prostudování spisu. Riziko: soud může u výslechů namítnout, že se nejednalo o „vyšetřovací úkon" ve smyslu písm. e), nýbrž o úkon, u něhož se obhájce neúčastnil aktivně — pak by hrozilo přeřazení nebo neuznání. Alternativní výklad: pokud čas nelze doložit, soud přizná jen jeden úkon za každý úkon (bez násobení). Procesní krok: proti rozhodnutí o odměně podat stížnost (§ 151 odst. 3 tr. ř.), přičemž dle NS 1 Tmo 17/2022 je z hlediska zákazu reformace in peius rozhodující celková přiznaná částka.
+
+**6. Varianty.** (a) Kdyby šlo o pouhý návrh na provedení důkazů (nikoliv vyjádření k obžalobě), nešlo by o podání ve věci samé dle písm. d) a úkon by se nepočítal (NS 6 To 99/2021). (b) Kdyby výslech obviněného trval přesně 2 hodiny 0 minut, náležel by jen 1 úkon — druhý úkon zakládá až překročení druhé hranice, tedy 2 h a 1 min.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Úkon dle písm. c) — porada — se počítá vždy."* Nikoliv; porada s klientem je plným úkonem jen tehdy, přesahuje-li jednu hodinu. Porada do 60 minut se jako samostatný úkon nepočítá. Neutralizace: doložit délku porady (záznam, e-mailová rekapitulace s časem).
+- *Protiargument 2: „Vyjádření k jakémukoliv podání protistrany je plný úkon."* To platí jen u opravných prostředků ve věci samé (písm. k); u rozhodnutí, které není ve věci samé, jde o poloviční úkon (odst. 2 písm. c) — viz NS 29 Cdo 1420/2013 a NS 29 ICdo 19/2012 (vyjádření k dovolání proti rozhodnutí, které není ve věci samé = jedna polovina). Neutralizace: vždy posoudit, zda napadené rozhodnutí je meritorní.
+- *Slabé místo:* Princip „každé započaté dvě hodiny" vyžaduje důkaz o přesné délce. Bez protokolů či záznamů policejního orgánu soud zpravidla přizná jen jeden úkon; chybějícím podkladem je tak časový údaj, který musí advokát zajistit již při úkonu.
+
+#### H. Praktický závěr
+
+Mimosmluvní odměna se počítá jako součin počtu úkonů (§ 11) a sazby (§§ 7–10). Klíčové je rozlišení tří režimů: úkony bez ohledu na délku (písm. a, b, d, h, j, k, l, m, n, o), úkony dělitelné po dvou započatých hodinách (písm. e, f, g, i) a úkony podmíněné minimální délkou (písm. c — nad 1 hodinu). U úkonu výslovně neuvedeného nastupuje analogie dle odst. 3.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikuj každý úkon a zařaď jej do odst. 1 (plný) nebo odst. 2 (poloviční), případně odst. 3 (analogie).
+- [ ] U úkonů písm. e), f), g), i) doloži přesnou délku (protokol, záznam) a vynásob počet úkonů podle dvouhodinových intervalů.
+- [ ] U porady dle písm. c) ověř, že přesáhla 1 hodinu; jinak ji nelze samostatně účtovat.
+- [ ] U podání ověř, zda jde o „věc samou" (písm. d, plný) nebo o procesní podání (poloviční/analogie).
+- [ ] U vyjádření k opravnému prostředku rozliš, zda napadené rozhodnutí je meritorní (písm. k) nebo nikoliv (odst. 2 písm. c).
+
+**Typicky rozhodné důkazy / podklady:** smlouva o poskytnutí právních služeb nebo rozhodnutí o ustanovení; protokoly o úkonech s vyznačením času zahájení/ukončení; záznam policejního orgánu o prostudování spisu (§ 166 tr. ř.); kopie všech podání; specifikace úkonů v odůvodnění rozhodnutí o odměně.
+
 ---
 
 ### § 12 — Zvýšení nebo snížení mimosmluvní odměny
@@ -365,6 +402,44 @@ V trestní věci, kde je obviněný stíhán pro více trestných činů spácha
 - *NS* [7 To 24/2005](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/38970F5687C440E8C1257BD60046AD9E?openDocument) — 21. 2. 2005, kat. A
   > „Ustanovení § 12 odst. 4 advokátního tarifu nepodmiňuje snížení mimosmluvní odměny o 20% za každý trestný čin v řízení vedeném pro trestné činy spáchané ve vícečinném souběhu tím, že úkon, za který se odměna stanovuje, musí být společný pro více takových trestných činů. Proto obhájci přísluší odměna ve výši odpovídající sazbě stanovené za jeden úkon právní služby za obhajobu v takovém řízení, i když se úkon týká jen jednoho z trestných činů, o nichž se řízení vede"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát v jediném civilním sporu společně zastupuje čtyři spoluvlastníky (žalobce) domáhající se vydání bezdůvodného obohacení. Současně namítá, že věc byla mimořádně obtížná, neboť část rozhodného práva se řídila cizím právním řádem (kolizní norma odkázala na rakouské právo) a komunikace probíhala v němčině. Po výhře ve věci žádá vůči neúspěšné protistraně náhradu nákladů řízení, v níž požaduje (i) zvýšení odměny na trojnásobek dle § 12 odst. 1 a (ii) plnou odměnu za všechny čtyři žalobce dle § 12 odst. 4. Soud namítá, že náhrada nákladů má být přiznána zdrženlivě. Důkazy k obstarání: cizojazyčná korespondence, použité rakouské prameny, plné moci všech čtyř žalobců, vyúčtování úkonů.
+
+**2. Právní otázka.** Lze při rozhodování o náhradě nákladů řízení současně přiznat zvýšení odměny na trojnásobek dle odst. 1 a uplatnit stupňovité snížení dle odst. 4 za druhého a dalšího zastupovaného, a jakým způsobem se snížení dle odst. 4 ve znění účinném od 1. 1. 2025 počítá?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12 odst. 1 (zvýšení až na trojnásobek u mimořádně obtížných nebo časově náročných úkonů); § 12 odst. 4 (stupňovité snížení za druhou a každou další společně zastupovanou osobu).
+- *Související ustanovení téhož zákona:* § 11 (úkon jako výpočtová jednotka); § 7 a § 9 (sazba a tarifní hodnota); § 1 odst. 2 a 3 (vyloučení snížení dle odst. 2 při náhradě nákladů a u ustanoveného advokáta, viz `01-cast1-obecna-ustanoveni.md`); § 12 odst. 3 (součet tarifních hodnot při spojení věcí).
+- *Související předpisy:* § 142 o. s. ř. (náhrada nákladů úspěšnému účastníku); zákon č. 91/2012 Sb., o mezinárodním právu soukromém (kolizní určení rozhodného práva).
+- *Judikatura:* NS 25 Cdo 1552/2025 (od 1. 1. 2025 se odměna za společné zastupování více účastníků krátí o aritmetický průměr procentních hodnot); NS 30 Cdo 4016/2016 (mimořádné zvýšení odměny vychází ze zvýšených odborných nároků na konkrétní úkon, nikoliv paušálně z obtížnosti věci); NS 4 To 551/2023 (mimořádná obtížnost i z důvodu duševní poruchy zastupovaného, je-li jednání s ním obzvlášť nesnadné); NS 6 To 99/2021 (nouzový stav COVID-19 sám o sobě není důvodem zvýšení dle odst. 1).
+
+**4. Subsumpce.** Zvýšení dle odst. 1: použití cizího (rakouského) práva a němčiny naplňuje příkladmo uvedené důvody mimořádné obtížnosti; podle NS 30 Cdo 4016/2016 však musí být obtížnost vázána na konkrétní úkon (např. právě úkon, při němž bylo cizí právo aplikováno), nikoliv paušálně na celou věc. Snížení dle odst. 4: jde o jeden společný procesní úkon (jedno podání) pro čtyři osoby — snížení nastupuje za 2., 3. a 4. žalobce. Podle NS 25 Cdo 1552/2025 (znění od 1. 1. 2025) se však u každého účastníka plná odměna krátí o aritmetický průměr procentních hodnot odpovídajících počtu účastníků, nikoliv stupňovitě individuálně. Sporné je, zda jsou všechny úkony skutečně „společné" (podmínka aplikace odst. 4).
+
+**5. Řešení.** Advokát uplatní zvýšení dle odst. 1 jen u těch úkonů, u nichž byla obtížnost reálně dána, a doloží ji (cizojazyčná korespondence, zahraniční prameny). U společných úkonů aplikuje snížení dle odst. 4 v aktuálním znění metodou aritmetického průměru dle NS 25 Cdo 1552/2025. Pravděpodobný výsledek: soud přizná zvýšení jen u doložených úkonů a sníženou odměnu za 2.–4. žalobce. Pozor na vztah k odst. 2: snížení odměny advokátem se při náhradě nákladů neuplatní (§ 1 odst. 2), takže to, že advokát svým klientům účtoval méně, výši přiznané náhrady nesnižuje. Procesní krok: precizní vyúčtování s rozlišením společných a nespolečných úkonů.
+
+**6. Varianty.** (a) Kdyby šlo o trestní obhajobu více obviněných stíhaných pro souběh trestných činů, uplatnil by se odst. 5 (odměna jen dle nejvyšší trestní sazby) jako lex specialis k odst. 3 — viz NS 50 To 514/2009. (b) Kdyby úkony nebyly společné, ale advokát by činil samostatné úkony za každou osobu, snížení dle odst. 4 by se neuplatnilo a v trestní věci by dle NS 7 To 24/2005 náležela plná odměna za úkon i tehdy, týká-li se jen jednoho z více souběžných trestných činů.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Obtížnost věci sama o sobě odůvodňuje zvýšení na trojnásobek."* NS 30 Cdo 4016/2016 výslovně odmítá paušální odvozování zvýšení od obtížnosti věci; rozhodné jsou zvýšené odborné/profesní nároky na realizaci konkrétního úkonu. Neutralizace: navázat zvýšení na konkrétní úkon a doložit, v čem spočívala jeho mimořádnost.
+- *Protiargument 2: „Snížení dle odst. 4 se počítá postupně po 20 % na každou osobu."* Od 1. 1. 2025 NS 25 Cdo 1552/2025 stanoví výpočet aritmetickým průměrem procentních hodnot u každého účastníka; starší stupňovité chápání (jak je ilustrováno v příkladové tabulce výkladu) bylo modifikováno. Neutralizace: u úkonů po 1. 1. 2025 použít průměrovou metodu dle NS.
+- *Slabé místo:* Pojem „společný úkon" je sporný. NS 7 To 24/2005 ukazuje, že v trestní oblasti snížení nepodmiňuje, aby byl úkon společný pro více trestných činů. Chybějícím podkladem bývá důkaz, že úkon byl skutečně proveden jednotně pro všechny zastupované.
+
+#### H. Praktický závěr
+
+§ 12 obsahuje pět samostatných korekčních pravidel: zvýšení odměny (odst. 1), snížení odměny advokátem (odst. 2, neuplatní se při náhradě nákladů a u ustanoveného advokáta), součet tarifních hodnot při spojení věcí (odst. 3), stupňovité/průměrové snížení při společném zastupování více osob (odst. 4) a limit odměny dle nejvyšší trestní sazby při souběhu (odst. 5, lex specialis k odst. 3). Aplikace vyžaduje vždy vázat zvýšení na konkrétní úkon a respektovat aktuální judikaturní výklad odst. 4.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] U zvýšení dle odst. 1 identifikuj konkrétní úkon a doloži jeho mimořádnou obtížnost nebo časovou náročnost (cizí právo, cizí jazyk, objem spisu).
+- [ ] Nepřiznávej zvýšení paušálně za celou věc (NS 30 Cdo 4016/2016).
+- [ ] Při náhradě nákladů řízení neaplikuj snížení dle odst. 2 (§ 1 odst. 2) a u ustanoveného advokáta hrazeného státem rovněž ne (§ 1 odst. 3).
+- [ ] Při spojení věcí (odst. 3) sečti tarifní hodnoty, jen není-li spojení stanoveno přímo jiným předpisem.
+- [ ] U společného zastupování více osob (odst. 4) aplikuj výpočet dle znění účinného v době úkonu; pro úkony od 1. 1. 2025 použij průměrovou metodu (NS 25 Cdo 1552/2025).
+- [ ] U trestní obhajoby při souběhu trestných činů aplikuj odst. 5 (jen nejvyšší trestní sazba) jako speciální k odst. 3 (NS 50 To 514/2009).
+
+**Typicky rozhodné důkazy / podklady:** doklad o použití cizího práva a cizího jazyka (korespondence, prameny, překlady); objem spisu; plné moci všech zastupovaných osob; vyúčtování s rozlišením společných a samostatných úkonů; údaj o trestních sazbách jednotlivých souběžných trestných činů.
+
 ---
 
 ### § 12b — Sazba mimosmluvní odměny za právní porady dle § 18a a § 18b zákona o advokacii
@@ -424,6 +499,43 @@ Za každou i jen **započatou hodinu** porady poskytnuté dle § 18b zákona o a
 **Vztah k obecným úkonům právní služby**
 
 Porady dle § 18a a § 18b nejsou úkony v klasickém smyslu § 11 advokátního tarifu — netýkají se zastoupení nebo obhajoby v konkrétní věci, ale obecného poradenství. Proto jim zákon věnuje samostatné ustanovení § 12b s vlastní paušální sazbou oddělenou od sazebníku §§ 7–10. Ke křížovým odkazům na výklad §§ 6–10 viz kapitolu `03-cast2-mimosmluvni-vyse-sazba-tarifni-hodnota.md`; k obecné systematice a osobám advokáta a ustanoveného zástupce viz `01-cast1-obecna-ustanoveni.md`.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Fyzická osoba s nízkým příjmem (průměrný měsíční příjem za 6 měsíců nepřesahuje trojnásobek životního minima) požádá Českou advokátní komoru o určení advokáta k poskytnutí právní porady dle § 18a zákona o advokacii. Komora určí advokáta. Ten poskytne žadateli poradu v délce 35 minut. V jiné věci tentýž advokát na podnět provozovatele přijímacího střediska podle zákona o azylu poskytne dle § 18b jednorázovou poradu skupině umístěných cizinců v délce 25 minut. Advokát následně vyúčtuje odměnu České advokátní komoře. Důkazy k obstarání: rozhodnutí Komory o určení advokáta, záznam o délce porady, doklad o splnění zákonných podmínek (typ porady dle § 18a vs. § 18b).
+
+**2. Právní otázka.** Jakou paušální sazbu advokát vyúčtuje za poradu trvající 35 minut dle § 18a a za poradu trvající 25 minut dle § 18b, a uplatní se na tyto sazby korekce dle § 12 (zvýšení/snížení) nebo sazebník dle § 7–10?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12b odst. 1 (200 Kč za každou i jen započatou půlhodinu porady dle § 18a) a odst. 2 (400 Kč za každou i jen započatou hodinu porady dle § 18b) — paušální sazby oddělené od sazebníku §§ 7–10.
+- *Související ustanovení téhož zákona:* § 11 (tyto porady nejsou klasickým úkonem v konkrétní věci, proto mají vlastní sazbu); § 12 (jeho korekce se na § 12b neuplatní — § 12b je speciální); § 7–10 (sazebník, který se zde nepoužije, viz `03-cast2-mimosmluvni-vyse-sazba-tarifni-hodnota.md`).
+- *Související předpisy:* § 18a a § 18b zákona č. 85/1996 Sb., o advokacii (hmotněprávní podmínky určení advokáta a poskytnutí porady); zákon o životním a existenčním minimu (kritérium příjmu); zákon o azylu a zákon o pobytu cizinců (zařízení pro zajištění cizinců / přijímací středisko).
+- *Judikatura:* Specifická judikatura k § 12b je vzhledem k pevné paušální sazbě a novosti institutu řídká; nosný výkladový závěr je dán samotným zněním ustanovení — „každá i jen započatá" jednotka se počítá jako celá. Neuvádím smyšlené spisové značky.
+
+**4. Subsumpce.** Porada dle § 18a v délce 35 minut: princip „každá i jen započatá půlhodina" znamená, že 35 minut = 2 půlhodiny (první 0–30 min, druhá 30–35 min) = 2 × 200 Kč = 400 Kč. Porada dle § 18b v délce 25 minut: jednotkou je celá hodina; 25 minut = 1 započatá hodina = 1 × 400 Kč = 400 Kč. Korekce dle § 12 se neaplikují (§ 12b je lex specialis s pevnou sazbou). Sazebník §§ 7–10 se neuplatní, neboť odměna se neodvozuje od tarifní hodnoty věci.
+
+**5. Řešení.** Advokát vyúčtuje České advokátní komoře 400 Kč za poradu dle § 18a (2 půlhodiny) a 400 Kč za poradu dle § 18b (1 hodina). Odměnu nehradí klient (žadatel hradí pouze poplatek 100 Kč Komoře za vyřízení žádosti dle § 18a odst. 5), nýbrž Komora ze svých prostředků. Praktický krok: doložit délku porady a typ řízení (§ 18a vs. § 18b), neboť délka časové jednotky se liší (půlhodina vs. hodina) a u kratších porad vede k odlišnému výsledku.
+
+**6. Varianty.** (a) Kdyby porada dle § 18a trvala přesně 30 minut, šlo by o 1 půlhodinu = 200 Kč; až 31. minuta zakládá druhou půlhodinu. (b) Kdyby šlo o poradu dle § 18b v délce 65 minut, šlo by o 2 započaté hodiny = 800 Kč, zatímco táž délka dle § 18a (3 půlhodiny) by činila 600 Kč — rozdíl plyne z odlišné délky účtovací jednotky.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Na poradu lze uplatnit zvýšení dle § 12 odst. 1, je-li mimořádně obtížná."* Nikoliv; § 12b stanoví pevnou paušální sazbu, která je speciální vůči obecnému sazebníku i vůči korekcím dle § 12. Zvýšení ani snížení se neuplatní. Neutralizace: argumentovat povahou § 12b jako samostatného paušálu odděleného od §§ 7–12.
+- *Protiargument 2: „Sazba 400 Kč/hod dle § 18b je výhodnější než § 18a, takže advokát ji uplatní vždy."* Volba režimu není na advokátovi — řídí se hmotněprávními podmínkami (§ 18a = porada nemajetné fyzické osobě určená Komorou; § 18b = jednorázová porada osobám v zařízení pro zajištění cizinců/přijímacím středisku na podnět provozovatele). Neutralizace: doložit, podle kterého ustanovení byl advokát Komorou určen.
+- *Slabé místo:* Chybějícím podkladem bývá přesný záznam délky porady. Bez něj nelze určit počet účtovacích jednotek; advokát by měl délku porady zaznamenat a být schopen ji Komoře doložit.
+
+#### H. Praktický závěr
+
+§ 12b zavádí pro porady poskytované určeným advokátem dle § 18a a § 18b zákona o advokacii pevné paušální sazby oddělené od sazebníku §§ 7–10 i od korekcí § 12: 200 Kč za každou započatou půlhodinu (§ 18a) a 400 Kč za každou započatou hodinu (§ 18b). Odměnu hradí Česká advokátní komora, nikoliv klient. Princip „každá i jen započatá" jednotka znamená, že každý zlomek nové jednotky se počítá jako celá.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Urči, podle kterého ustanovení zákona o advokacii byl advokát Komorou určen (§ 18a vs. § 18b) — od toho se odvíjí délka účtovací jednotky.
+- [ ] U § 18a počítej 200 Kč za každou i jen započatou půlhodinu; u § 18b 400 Kč za každou i jen započatou hodinu.
+- [ ] Neaplikuj sazebník §§ 7–10 ani zvýšení/snížení dle § 12 — sazba je pevná.
+- [ ] Vyúčtuj odměnu České advokátní komoře, nikoliv klientovi (žadatel hradí jen poplatek 100 Kč dle § 18a odst. 5, je-li poplatníkem).
+- [ ] Zaznamenej a doloži přesnou délku porady (počet jednotek).
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí Komory o určení advokáta dle § 18a/§ 18b; záznam o délce a obsahu porady; doklad o splnění podmínek žadatele (příjem, umístění v zařízení); vyúčtování odměny vůči Komoře.
 
 ---
 
